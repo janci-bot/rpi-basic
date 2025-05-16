@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+venv/
+
+# Logs
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
